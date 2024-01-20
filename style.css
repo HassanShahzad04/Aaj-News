@@ -1,0 +1,159 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#header-container {
+    padding: 8px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+    width: 100%;
+}
+  
+
+#eng-header {
+    display: inline-block;
+    height: 150px;
+    margin-left: 12.5%;
+}
+  
+.hlink {
+    text-decoration: none;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 300px;
+    line-height: 16px;
+    color: #3063b4 ;
+    font-style: italic;
+    border-bottom: 2px solid skyblue;
+    border-bottom-width: 3px;
+}
+  
+#watchlive {
+    color: #d7752b ;
+    text-decoration: none;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 300px;
+    line-height: 16px;
+    color: #252f3f;
+    font-style: italic;
+}
+
+#Climate {
+    text-decoration: none;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 300px;
+    line-height: 16px;
+    color: #252f3f;
+    font-style: italic;
+}
+
+#Election {
+    text-decoration: none;
+    display: inline-block;
+    font-family:sans-serif;
+    font-size: 16px;
+    font-weight: 300px;
+    line-height: 16px;
+    color: #252f3f;
+    font-style: italic;
+}
+
+#ajjlogodiv {
+    display: inline-block;
+    margin-left: 25%;
+    padding: 10px;
+}
+
+#ajjlogo {
+    display: inline-block;
+    width: 80px;
+    height: 100px;
+}
+
+#ajjlogodiv > p {
+    display: inline-block;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    color: #252f3f;
+    font-family: sans-serif;
+    margin-left: -45%;
+}
+  
+#urdu-header {
+    display: inline-block;
+    height: 150px;
+    margin-left: 10%;
+}
+
+.hr {
+    color: black;
+    border: 2px solid black;
+}
+
+#nav {
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 700;
+}
+
+#nav  a {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+
+#search {
+    width: 1.5%;
+    margin: 0px 0px 0px 2px;
+}
+  
+#rightarticle1 {
+    display: inline-block;
+    margin-left: 3%;
+    width: 300px;
+    height: 300px;
+}
+
+#rightarticle1  p {
+    font-weight: 800;
+    right: auto;
+    font-size: 20px;
+    line-height: 24px;
+    font-family:serif;
+}
+
+#time {
+    color: #85dfff;
+}
+
+#iframe1 {
+    display: inline-block;
+    width: 770px;
+    height: 350px;
+    margin-left: 35px;
+}
+
+footer {
+    background-color: #252f3f;
+    text-align: center;
+    color: white;
+    font-family:serif;
+}
+  
+  footer > p,
+  h2 {
+    display: inline-block;
+}
+
